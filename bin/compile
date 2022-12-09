@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "Set Cloudflared Service init"
+cloudflared service install $CLOUDFLARED_TOKEN`
